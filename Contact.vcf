@@ -1,9 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Your Name
-ORG:Your Company
-TITLE:Your Job Title
-TEL;TYPE=WORK,VOICE:+1234567890
-EMAIL:youremail@example.com
-URL:https://yourwebsite.com
+FN:Tom
+ORG:DOS
+TITLE:DOS
+TEL;TYPE=WORK 219-214-3003
+EMAIL:tramus1@hotmail.com
 END:VCARD
